@@ -1,0 +1,6 @@
+Hello Python
+Good Morning
+Python is easy
+I am learning File Handling
+Have a nice day
+Python File Handling is interesting
