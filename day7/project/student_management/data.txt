@@ -1,0 +1,7 @@
+Name: shraddha
+Roll No: 22
+Marks: [88, 99, 44]
+Total: 231
+Percentage: 77.0
+Grade: A
+------------------------
